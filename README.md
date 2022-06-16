@@ -1,6 +1,6 @@
 # bettermint registry
 
-Organizations looking to be apart of thebettermint ecosystem will need to register prior to being listed on the platform. 
+Organizations looking to be apart of thebettermint ecosystem will need to register prior to being listed on the platform.
 
 - Licensed 501(c)(3) designation
 - Demonstrate a target audience for the donations
@@ -12,25 +12,25 @@ If you are an organization looking to list, please fork this repo and follow the
 
 ### Instructions
 
-Begin by forking this package. 
+Begin by forking this package.
 Once forked, add your organization to the registry.json saved in the /src directory.
 Inlude all of the following parameters for your organization:
 
-| Field       | Type        | Description |
-| ----------- | ----------- | ----------- |
-| name      | string       | Name of your organization  |
-| description      | string     |  Description including mission statement and goals  |
-| image      | string     |  URL to organization/initiative logo |
-| phone      | number     |  Phone number   |
-| address      | string     |  Eligible address  |
-| country      | string     |  Country of origin |
-| EIN    | number | Employer Identification Number |
+| Field       | Type   | Description                                       |
+| ----------- | ------ | ------------------------------------------------- |
+| name        | string | Name of your organization                         |
+| description | string | Description including mission statement and goals |
+| image       | string | URL to organization/initiative logo               |
+| phone       | number | Phone number                                      |
+| address     | string | Eligible address                                  |
+| country     | string | Country of origin                                 |
+| EIN         | number | Employer Identification Number                    |
 
 Save changes and create a pull request.
 
 ### Example
 
-``` JSON
+```JSON
 {
     "name":"Save the Whales",
     "description":"Our mission is to provide a more sustainable future for the whales",
@@ -41,3 +41,5 @@ Save changes and create a pull request.
     "EIN":"12-3456789"
 }
 ```
+
+change
