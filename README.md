@@ -1,6 +1,6 @@
 # bettermint registry
 
-Organizations looking to be apart of thebettermint ecosystem will need to register prior to be listed on the platform. 
+Organizations looking to be apart of thebettermint ecosystem will need to register prior to being listed on the platform. 
 
 - Licensed 501(c)(3) designation
 - Demonstrate a target audience for the donations
