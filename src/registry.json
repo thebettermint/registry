@@ -1,0 +1,28 @@
+[
+    { 
+        "title": "thebettermintRegistry",
+        "description": "This is the central regisry for thebettermint ecosystem"
+    },
+    {
+        "registry": [
+            {
+                "name":"Save the Whales",
+                "description":"Our mission is to provide a more sustainable future for the whales",
+                "image":"https://github.com/thebettermint/gitusercontent/your_organizations_logo.png",
+                "phone":"555-555-5555",
+                "address":"4 Privet Drive, Little Whinging, Surrey",
+                "country": "EN",
+                "EIN":"12-3456789"
+            },
+            {
+                "name":"Save the Whales",
+                "description":"Our mission is to provide a more sustainable future for the whales",
+                "image":"https://github.com/thebettermint/gitusercontent/your_organizations_logo.png",
+                "phone":"555-555-5555",
+                "address":"4 Privet Drive, Little Whinging, Surrey",
+                "country": "EN",
+                "EIN":"12-3456789"
+            }
+        ]
+    }
+]
