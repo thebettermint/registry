@@ -1,7 +1,9 @@
 [
     { 
-        "title": "thebettermintRegistry",
-        "description": "This is the central regisry for thebettermint ecosystem"
+        "document": {
+            "title": "thebettermintRegistry",
+            "description": "This is the central regisry for thebettermint ecosystem"
+            }
     },
     {
         "registry": [

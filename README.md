@@ -22,7 +22,7 @@ Inlude all of the following parameters for your organization:
 | description    | string | Description including mission statement and goals |
 | address        | string | XRPL Address                                      |
 | image          | string | URL to organization/initiative logo               |
-| phone          | number | Phone number                                      |
+| phone          | string | Phone number                                      |
 | mailingAddress | string | Eligible address                                  |
 | country        | string | Country of origin                                 |
 | EIN            | number | Employer Identification Number                    |
