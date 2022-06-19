@@ -1,8 +1,11 @@
 {
-  "name": "registry",
+  "name": "@thebettermint/registry",
   "version": "0.0.1",
   "description": "A registry for charitable organizations to automate nft tax credits",
   "main": "index.js",
+  "files": [
+		"src"
+	],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
