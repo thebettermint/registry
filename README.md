@@ -22,10 +22,12 @@ Inlude all of the following parameters for your organization:
 | description    | string | Description including mission statement and goals |
 | address        | string | XRPL Address                                      |
 | image          | string | URL to organization/initiative logo               |
+| url            | string | URL to organization/initiative website            |
 | phone          | string | Phone number                                      |
 | mailingAddress | string | Eligible address                                  |
 | country        | string | Country of origin                                 |
 | EIN            | number | Employer Identification Number                    |
+| initatives     | number | Array of donation initiatives                     |
 
 Save changes and create a pull request.
 
@@ -37,9 +39,20 @@ Save changes and create a pull request.
             "description":"Our mission is to provide a more sustainable future for the whales",
             "address":"rpfBYsmNBB7Y6z7qHS8g26KE3y3hHaTxkq",
             "image":"https://github.com/thebettermint/registry/blob/a3fc4bad1c3eee86f52ed4eb2a873e54fbd8855a/src/assets/sample_logo.png",
+            "url":"https://savethewhales.org",
             "phone":"555-555-5555",
             "mailingAddress":"4 Privet Drive, Little Whinging, Surrey",
             "country": "EN",
-            "EIN":"12-3456789"
+            "EIN":"12-3456789",
+            "initatives": [
+                    {
+                        "title": "Save the Whales - Test",
+                        "description": "This is the first test initiative, or funding round for the save the whales organization",
+                        "tag": 123456,
+                        "XAddress": "",
+                        "start": 1655656869,
+                        "end":1655656869
+                    }
+                ]
         }
 ```
