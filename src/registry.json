@@ -72,13 +72,13 @@
             },
             {
                 "name":"Feed Hungry Evan",
-                "description":"",
+                "description":"This is an example organization to help feed my man Evan",
                 "address":"rpfBYsmNBB7Y6z7qHS8g26KE3y3hHaTxkq",
                 "image":"https://github.com/thebettermint/registry/blob/a3fc4bad1c3eee86f52ed4eb2a873e54fbd8855a/src/assets/sample_logo.png",
-                "url":"",
-                "phone":"",
-                "mailingAddress":"",
-                "country": "",
+                "url":"https://example.com",
+                "phone":"555-555-5555",
+                "mailingAddress":"1234 Example Drive, Seattle WA 12345",
+                "country": "USA",
                 "EIN":"12-12343567",
                 "initatives": [
                     {
@@ -87,7 +87,33 @@
                         "tag": 123456,
                         "XAddress": "",
                         "start": 1655656869,  
-                        "end":1655656869
+                        "end":1655656869,
+                        "tiers": [
+                            {
+                                "amount": {
+                                    "currency": "XRP",
+                                    "issuer": "", 
+                                    "value": 5
+                                },
+                                "asset":  "https://github.com/thebettermint/registry/blob/main/src/assets/bronze_hex.png"
+                            },
+                            {
+                                "amount": {
+                                    "currency": "XRP",
+                                    "issuer": "", 
+                                    "value": 10
+                                },
+                                "asset":  "https://github.com/thebettermint/registry/blob/main/src/assets/silver_hex.png"
+                            },
+                            {
+                                "amount": {
+                                    "currency": "XRP",
+                                    "issuer": "", 
+                                    "value": 20
+                                },
+                                "asset":  "https://github.com/thebettermint/registry/blob/main/src/assets/gold_hex.png"
+                            }
+                        ]
                     }
                 ]
             }
