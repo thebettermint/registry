@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="104.69mm" height="90.663mm" version="1.1" viewBox="0 0 104.69 90.663" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="clipPath9483">
+   <path transform="matrix(.21454 -.12386 .12386 .21454 -122.7 274.77)" d="m1312.6 323.16-230.98-1e-5 -115.49-200.04 115.49-200.04 230.98 1.1e-5 115.49 200.04z" fill="none" opacity=".38447" stroke="#000" stroke-dashoffset="2.2677" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.7795" style="paint-order:stroke markers fill"/>
+  </clipPath>
+  <filter id="filter3178-7" x="-.15793" y="-.13677" width="1.3159" height="1.2735" color-interpolation-filters="sRGB">
+   <feGaussianBlur in="SourceGraphic" result="result8" stdDeviation="5.2987815"/>
+   <feComposite in2="result8" operator="xor" result="result18"/>
+   <feComposite in2="result18" k1="1" k3="0.5" operator="arithmetic" result="result16"/>
+   <feComposite in="result16" in2="result8" operator="xor" result="result6"/>
+   <feOffset in="result6" result="result17"/>
+   <feDisplacementMap in="result17" in2="result16" result="result4" scale="100"/>
+   <feComposite in="result4" in2="result4" k3="1" operator="arithmetic" result="result2"/>
+   <feComposite in="result6" in2="result2" operator="in" result="fbSourceGraphic"/>
+   <feComposite in2="fbSourceGraphic" result="result14"/>
+   <feComposite in="result14" in2="result2" operator="in" result="result15"/>
+  </filter>
+ </defs>
+ <g transform="translate(-73.441 -210.9)">
+  <g transform="matrix(.79223 .45739 -.45739 .79223 77.393 66.769)" clip-path="url(#clipPath9483)" fill="#dbf343" filter="url(#filter3178-7)" style="mix-blend-mode:normal">
+   <path transform="matrix(.10613 0 0 .10613 235.75 201.82)" d="m-846.87-49.453-379.36-219.02v-438.05l379.36-219.02 379.36 219.02 1e-5 438.05z" fill="#dbf343" stroke="#000" stroke-linejoin="round" stroke-width="26.667" style="font-variation-settings:'wght' 500"/>
+  </g>
+ </g>
+</svg>
