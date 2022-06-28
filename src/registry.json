@@ -24,7 +24,33 @@
                         "tag": 123456,
                         "XAddress": "",
                         "start": 1655656869,  
-                        "end":1655656869
+                        "end":1655656869,
+                        "tiers": [
+                          {
+                              "amount": {
+                                  "currency": "XRP",
+                                  "issuer": "", 
+                                  "value": 20
+                              },
+                              "asset":  "https://github.com/thebettermint/registry/blob/main/src/assets/whale/BronzeWhale.png"
+                          },
+                          {
+                              "amount": {
+                                  "currency": "XRP",
+                                  "issuer": "", 
+                                  "value": 100
+                              },
+                              "asset":  "https://github.com/thebettermint/registry/blob/main/src/assets/whale/SilverWhale.png"
+                          },
+                          {
+                              "amount": {
+                                  "currency": "XRP",
+                                  "issuer": "", 
+                                  "value": 500
+                              },
+                              "asset":  "https://github.com/thebettermint/registry/blob/main/src/assets/whale/GoldWhale.png"
+                          }
+                      ]
                     }
                 ]
             },
@@ -95,7 +121,7 @@
                                     "issuer": "", 
                                     "value": 5
                                 },
-                                "asset":  "https://github.com/thebettermint/registry/blob/main/src/assets/bronze_hex.png"
+                                "asset":  "https://github.com/thebettermint/registry/blob/main/src/assets/taco/BronzeTaco.png"
                             },
                             {
                                 "amount": {
@@ -103,7 +129,7 @@
                                     "issuer": "", 
                                     "value": 10
                                 },
-                                "asset":  "https://github.com/thebettermint/registry/blob/main/src/assets/silver_hex.png"
+                                "asset":  "https://github.com/thebettermint/registry/blob/main/src/assets/taco/SilverTaco.png"
                             },
                             {
                                 "amount": {
@@ -111,7 +137,7 @@
                                     "issuer": "", 
                                     "value": 20
                                 },
-                                "asset":  "https://github.com/thebettermint/registry/blob/main/src/assets/gold_hex.png"
+                                "asset":  "https://github.com/thebettermint/registry/blob/main/src/assets/taco/GoldTaco.png"
                             }
                         ]
                     }
