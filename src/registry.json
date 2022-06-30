@@ -2,7 +2,7 @@
     { 
         "document": {
             "title": "TheBettermintRegistry",
-            "description": "This is the central regisry for thebettermint ecosystem"
+            "description": "This is the registry for thebettermint ecosystem"
             }
     },
     {
@@ -11,7 +11,7 @@
                 "name":"Save the Whales",
                 "description":"Our mission is to provide a more sustainable future for the whales",
                 "address":"rBGjaDmM79WSXpbAfH1xAg1rpWKf4rsZyV",
-                "image":"https://github.com/thebettermint/registry/blob/a3fc4bad1c3eee86f52ed4eb2a873e54fbd8855a/src/assets/sample_logo.png",
+                "image":"https://github.com/thebettermint/registry/blob/main/src/assets/save_the_whale.png",
                 "url":"",
                 "phone":"",
                 "mailingAddress":"",
@@ -25,6 +25,7 @@
                         "XAddress": "",
                         "start": 1655656869,  
                         "end":1655656869,
+                        "defaultAsset":  "https://github.com/thebettermint/registry/blob/main/src/assets/generic/BronzeToken.png",
                         "tiers": [
                           {
                               "amount": {
@@ -58,7 +59,7 @@
                 "name":"Iowa Harm Reduction Coalition",
                 "description":"Working to improve health equity in Iowa",
                 "address":"rpyE923zYEkmAPCsqGfr2mQSHwXm7k7nKo",
-                "image":"https://github.com/thebettermint/registry/blob/a3fc4bad1c3eee86f52ed4eb2a873e54fbd8855a/src/assets/sample_logo.png",
+                "image":"https://github.com/thebettermint/registry/blob/main/src/assets/crest.png",
                 "url":"",
                 "phone":"",
                 "mailingAddress":"",
@@ -71,7 +72,8 @@
                         "tag": 8,
                         "XAddress": "",
                         "start": 1655656869,  
-                        "end":1655656869
+                        "end":1655656869,
+                        "defaultAsset":  "https://github.com/thebettermint/registry/blob/main/src/assets/generic/BronzeToken.png"
                     }
                 ]
             },
@@ -79,7 +81,7 @@
                 "name":"Remedy Alliance/For the People",
                 "description":"Providing naloxone for harm reduction programs around the USA",
                 "address":"rB7ZA58j6QT5drkyDoU2MFg8ABFo1EskUR",
-                "image":"https://github.com/thebettermint/registry/blob/a3fc4bad1c3eee86f52ed4eb2a873e54fbd8855a/src/assets/sample_logo.png",
+                "image":"https://github.com/thebettermint/registry/blob/main/src/assets/remedy.png",
                 "url":"",
                 "phone":"",
                 "mailingAddress":"",
@@ -92,7 +94,8 @@
                         "tag": 18,
                         "XAddress": "",
                         "start": 1655656869,  
-                        "end":1655656869
+                        "end":1655656869,
+                        "defaultAsset":  "https://github.com/thebettermint/registry/blob/main/src/assets/generic/BronzeToken.png"
                     }
                 ]
             },
@@ -100,7 +103,7 @@
                 "name":"Feed Hungry Evan",
                 "description":"This is an example organization to help feed my man Evan",
                 "address":"ratqtqh6x8RC5kagVTk6UTkDjYms7Z8qPD",
-                "image":"https://github.com/thebettermint/registry/blob/a3fc4bad1c3eee86f52ed4eb2a873e54fbd8855a/src/assets/sample_logo.png",
+                "image":"",
                 "url":"https://example.com",
                 "phone":"555-555-5555",
                 "mailingAddress":"1234 Example Drive, Seattle WA 12345",
@@ -114,6 +117,7 @@
                         "XAddress": "",
                         "start": 1655656869,  
                         "end":1655656869,
+                        "defaultAsset":  "https://github.com/thebettermint/registry/blob/main/src/assets/generic/BronzeToken.png",
                         "tiers": [
                             {
                                 "amount": {
