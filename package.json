@@ -1,6 +1,6 @@
 {
   "name": "@thebettermint/registry",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A registry for charitable organizations to automate nft tax credits",
   "main": "index.js",
   "files": [
