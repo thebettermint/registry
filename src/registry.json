@@ -10,7 +10,7 @@
             {
                 "name":"Save the Whales",
                 "description":"Our mission is to provide a more sustainable future for the whales",
-                "address":"rpfBYsmNBB7Y6z7qHS8g26KE3y3hHaTxkq",
+                "address":"rBGjaDmM79WSXpbAfH1xAg1rpWKf4rsZyV",
                 "image":"https://github.com/thebettermint/registry/blob/a3fc4bad1c3eee86f52ed4eb2a873e54fbd8855a/src/assets/sample_logo.png",
                 "url":"",
                 "phone":"",
@@ -21,7 +21,7 @@
                     {
                         "title": "Save the Whales - Test",
                         "description": "This is the first test initiative, or funding round for the save the whales organization",
-                        "tag": 123456,
+                        "tag": 5,
                         "XAddress": "",
                         "start": 1655656869,  
                         "end":1655656869,
@@ -57,7 +57,7 @@
             {
                 "name":"Iowa Harm Reduction Coalition",
                 "description":"Working to improve health equity in Iowa",
-                "address":"rpfBYsmNBB7Y6z7qHS8g26KE3y3hHaTxkq",
+                "address":"rpyE923zYEkmAPCsqGfr2mQSHwXm7k7nKo",
                 "image":"https://github.com/thebettermint/registry/blob/a3fc4bad1c3eee86f52ed4eb2a873e54fbd8855a/src/assets/sample_logo.png",
                 "url":"",
                 "phone":"",
@@ -68,7 +68,7 @@
                     {
                         "title": "Coalition #1",
                         "description": "Test initiative",
-                        "tag": 123456,
+                        "tag": 8,
                         "XAddress": "",
                         "start": 1655656869,  
                         "end":1655656869
@@ -78,7 +78,7 @@
             {
                 "name":"Remedy Alliance/For the People",
                 "description":"Providing naloxone for harm reduction programs around the USA",
-                "address":"rpfBYsmNBB7Y6z7qHS8g26KE3y3hHaTxkq",
+                "address":"rB7ZA58j6QT5drkyDoU2MFg8ABFo1EskUR",
                 "image":"https://github.com/thebettermint/registry/blob/a3fc4bad1c3eee86f52ed4eb2a873e54fbd8855a/src/assets/sample_logo.png",
                 "url":"",
                 "phone":"",
@@ -89,7 +89,7 @@
                     {
                         "title": "Remedy #1",
                         "description": "Test initiative",
-                        "tag": 123456,
+                        "tag": 18,
                         "XAddress": "",
                         "start": 1655656869,  
                         "end":1655656869
@@ -99,7 +99,7 @@
             {
                 "name":"Feed Hungry Evan",
                 "description":"This is an example organization to help feed my man Evan",
-                "address":"rpfBYsmNBB7Y6z7qHS8g26KE3y3hHaTxkq",
+                "address":"ratqtqh6x8RC5kagVTk6UTkDjYms7Z8qPD",
                 "image":"https://github.com/thebettermint/registry/blob/a3fc4bad1c3eee86f52ed4eb2a873e54fbd8855a/src/assets/sample_logo.png",
                 "url":"https://example.com",
                 "phone":"555-555-5555",
@@ -110,7 +110,7 @@
                     {
                         "title": "Food Drive #1",
                         "description": "Our inagural food drive",
-                        "tag": 123456,
+                        "tag": 36,
                         "XAddress": "",
                         "start": 1655656869,  
                         "end":1655656869,
