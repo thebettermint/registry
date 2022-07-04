@@ -2,12 +2,14 @@
   "name": "@thebettermint/registry",
   "version": "0.0.5",
   "description": "A registry for charitable organizations to automate nft tax credits",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "files": [
-		"src"
-	],
+    "src"
+  ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "tsc"
   },
   "repository": {
     "type": "git",
@@ -18,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/thebettermint/registry/issues"
   },
-  "homepage": "https://github.com/thebettermint/registry#readme"
+  "homepage": "https://github.com/thebettermint/registry#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
 }

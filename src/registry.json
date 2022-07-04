@@ -1,152 +1,148 @@
-[
-    { 
-        "document": {
-            "title": "TheBettermintRegistry",
-            "description": "This is the registry for thebettermint ecosystem"
+{
+  "document": {
+    "title": "TheBettermintRegistry",
+    "description": "This is the registry for thebettermint ecosystem"
+  },
+  "organizations": [
+    {
+      "name": "Save the Whales",
+      "description": "Our mission is to provide a more sustainable future for the whales",
+      "address": "rBGjaDmM79WSXpbAfH1xAg1rpWKf4rsZyV",
+      "image": "https://github.com/thebettermint/registry/blob/main/src/assets/save_the_whale.png",
+      "url": "",
+      "phone": "",
+      "mailingAddress": "",
+      "country": "",
+      "EIN": "95-3263536",
+      "initatives": [
+        {
+          "title": "Save the Whales - Test",
+          "description": "This is the first test initiative, or funding round for the save the whales organization",
+          "tag": 5,
+          "XAddress": "",
+          "start": 1655656869,
+          "end": 1655656869,
+          "defaultAsset": "https://github.com/thebettermint/registry/blob/main/src/assets/generic/BronzeToken.png",
+          "tiers": [
+            {
+              "amount": {
+                "currency": "XRP",
+                "issuer": "",
+                "value": 20
+              },
+              "asset": "https://github.com/thebettermint/registry/blob/main/src/assets/whale/BronzeWhale.png"
+            },
+            {
+              "amount": {
+                "currency": "XRP",
+                "issuer": "",
+                "value": 100
+              },
+              "asset": "https://github.com/thebettermint/registry/blob/main/src/assets/whale/SilverWhale.png"
+            },
+            {
+              "amount": {
+                "currency": "XRP",
+                "issuer": "",
+                "value": 500
+              },
+              "asset": "https://github.com/thebettermint/registry/blob/main/src/assets/whale/GoldWhale.png"
             }
+          ]
+        }
+      ]
     },
     {
-        "registry": [
+      "name": "Iowa Harm Reduction Coalition",
+      "description": "Working to improve health equity in Iowa",
+      "address": "rpyE923zYEkmAPCsqGfr2mQSHwXm7k7nKo",
+      "image": "https://github.com/thebettermint/registry/blob/main/src/assets/crest.png",
+      "url": "",
+      "phone": "",
+      "mailingAddress": "",
+      "country": "",
+      "EIN": "82-1864287",
+      "initatives": [
+        {
+          "title": "Coalition #1",
+          "description": "Test initiative",
+          "tag": 8,
+          "XAddress": "",
+          "start": 1655656869,
+          "end": 1655656869,
+          "defaultAsset": "https://github.com/thebettermint/registry/blob/main/src/assets/generic/BronzeToken.png"
+        }
+      ]
+    },
+    {
+      "name": "Remedy Alliance/For the People",
+      "description": "Providing naloxone for harm reduction programs around the USA",
+      "address": "rB7ZA58j6QT5drkyDoU2MFg8ABFo1EskUR",
+      "image": "https://github.com/thebettermint/registry/blob/main/src/assets/remedy.png",
+      "url": "",
+      "phone": "",
+      "mailingAddress": "",
+      "country": "",
+      "EIN": "87-3486445",
+      "initatives": [
+        {
+          "title": "Remedy #1",
+          "description": "Test initiative",
+          "tag": 18,
+          "XAddress": "",
+          "start": 1655656869,
+          "end": 1655656869,
+          "defaultAsset": "https://github.com/thebettermint/registry/blob/main/src/assets/generic/BronzeToken.png"
+        }
+      ]
+    },
+    {
+      "name": "Feed Hungry Evan",
+      "description": "This is an example organization to help feed my man Evan",
+      "address": "ratqtqh6x8RC5kagVTk6UTkDjYms7Z8qPD",
+      "image": "",
+      "url": "https://example.com",
+      "phone": "555-555-5555",
+      "mailingAddress": "1234 Example Drive, Seattle WA 12345",
+      "country": "USA",
+      "EIN": "12-12343567",
+      "initatives": [
+        {
+          "title": "Food Drive #1",
+          "description": "Our inagural food drive",
+          "tag": 36,
+          "XAddress": "",
+          "start": 1655656869,
+          "end": 1655656869,
+          "defaultAsset": "https://github.com/thebettermint/registry/blob/main/src/assets/generic/BronzeToken.png",
+          "tiers": [
             {
-                "name":"Save the Whales",
-                "description":"Our mission is to provide a more sustainable future for the whales",
-                "address":"rBGjaDmM79WSXpbAfH1xAg1rpWKf4rsZyV",
-                "image":"https://github.com/thebettermint/registry/blob/main/src/assets/save_the_whale.png",
-                "url":"",
-                "phone":"",
-                "mailingAddress":"",
-                "country": "",
-                "EIN":"95-3263536",
-                "initatives": [
-                    {
-                        "title": "Save the Whales - Test",
-                        "description": "This is the first test initiative, or funding round for the save the whales organization",
-                        "tag": 5,
-                        "XAddress": "",
-                        "start": 1655656869,  
-                        "end":1655656869,
-                        "defaultAsset":  "https://github.com/thebettermint/registry/blob/main/src/assets/generic/BronzeToken.png",
-                        "tiers": [
-                          {
-                              "amount": {
-                                  "currency": "XRP",
-                                  "issuer": "", 
-                                  "value": 20
-                              },
-                              "asset":  "https://github.com/thebettermint/registry/blob/main/src/assets/whale/BronzeWhale.png"
-                          },
-                          {
-                              "amount": {
-                                  "currency": "XRP",
-                                  "issuer": "", 
-                                  "value": 100
-                              },
-                              "asset":  "https://github.com/thebettermint/registry/blob/main/src/assets/whale/SilverWhale.png"
-                          },
-                          {
-                              "amount": {
-                                  "currency": "XRP",
-                                  "issuer": "", 
-                                  "value": 500
-                              },
-                              "asset":  "https://github.com/thebettermint/registry/blob/main/src/assets/whale/GoldWhale.png"
-                          }
-                      ]
-                    }
-                ]
+              "amount": {
+                "currency": "XRP",
+                "issuer": "",
+                "value": 5
+              },
+              "asset": "https://github.com/thebettermint/registry/blob/main/src/assets/taco/BronzeTaco.png"
             },
             {
-                "name":"Iowa Harm Reduction Coalition",
-                "description":"Working to improve health equity in Iowa",
-                "address":"rpyE923zYEkmAPCsqGfr2mQSHwXm7k7nKo",
-                "image":"https://github.com/thebettermint/registry/blob/main/src/assets/crest.png",
-                "url":"",
-                "phone":"",
-                "mailingAddress":"",
-                "country": "",
-                "EIN":"82-1864287",
-                "initatives": [
-                    {
-                        "title": "Coalition #1",
-                        "description": "Test initiative",
-                        "tag": 8,
-                        "XAddress": "",
-                        "start": 1655656869,  
-                        "end":1655656869,
-                        "defaultAsset":  "https://github.com/thebettermint/registry/blob/main/src/assets/generic/BronzeToken.png"
-                    }
-                ]
+              "amount": {
+                "currency": "XRP",
+                "issuer": "",
+                "value": 10
+              },
+              "asset": "https://github.com/thebettermint/registry/blob/main/src/assets/taco/SilverTaco.png"
             },
             {
-                "name":"Remedy Alliance/For the People",
-                "description":"Providing naloxone for harm reduction programs around the USA",
-                "address":"rB7ZA58j6QT5drkyDoU2MFg8ABFo1EskUR",
-                "image":"https://github.com/thebettermint/registry/blob/main/src/assets/remedy.png",
-                "url":"",
-                "phone":"",
-                "mailingAddress":"",
-                "country": "",
-                "EIN":"87-3486445",
-                "initatives": [
-                    {
-                        "title": "Remedy #1",
-                        "description": "Test initiative",
-                        "tag": 18,
-                        "XAddress": "",
-                        "start": 1655656869,  
-                        "end":1655656869,
-                        "defaultAsset":  "https://github.com/thebettermint/registry/blob/main/src/assets/generic/BronzeToken.png"
-                    }
-                ]
-            },
-            {
-                "name":"Feed Hungry Evan",
-                "description":"This is an example organization to help feed my man Evan",
-                "address":"ratqtqh6x8RC5kagVTk6UTkDjYms7Z8qPD",
-                "image":"",
-                "url":"https://example.com",
-                "phone":"555-555-5555",
-                "mailingAddress":"1234 Example Drive, Seattle WA 12345",
-                "country": "USA",
-                "EIN":"12-12343567",
-                "initatives": [
-                    {
-                        "title": "Food Drive #1",
-                        "description": "Our inagural food drive",
-                        "tag": 36,
-                        "XAddress": "",
-                        "start": 1655656869,  
-                        "end":1655656869,
-                        "defaultAsset":  "https://github.com/thebettermint/registry/blob/main/src/assets/generic/BronzeToken.png",
-                        "tiers": [
-                            {
-                                "amount": {
-                                    "currency": "XRP",
-                                    "issuer": "", 
-                                    "value": 5
-                                },
-                                "asset":  "https://github.com/thebettermint/registry/blob/main/src/assets/taco/BronzeTaco.png"
-                            },
-                            {
-                                "amount": {
-                                    "currency": "XRP",
-                                    "issuer": "", 
-                                    "value": 10
-                                },
-                                "asset":  "https://github.com/thebettermint/registry/blob/main/src/assets/taco/SilverTaco.png"
-                            },
-                            {
-                                "amount": {
-                                    "currency": "XRP",
-                                    "issuer": "", 
-                                    "value": 20
-                                },
-                                "asset":  "https://github.com/thebettermint/registry/blob/main/src/assets/taco/GoldTaco.png"
-                            }
-                        ]
-                    }
-                ]
+              "amount": {
+                "currency": "XRP",
+                "issuer": "",
+                "value": 20
+              },
+              "asset": "https://github.com/thebettermint/registry/blob/main/src/assets/taco/GoldTaco.png"
             }
-        ]
+          ]
+        }
+      ]
     }
-]
+  ]
+}
