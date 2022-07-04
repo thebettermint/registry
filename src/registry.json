@@ -4,6 +4,60 @@
     "description": "This is the registry for thebettermint ecosystem"
   },
   "organizations": [
+          {
+      "name": "Support Ukrainian Refugees ( artificial )",
+      "description": "Support Ukraine Refugees was established recently in 2022 to respond to the urgency of the Ukraine crisis. Based in the U.S., we believe it is possible and necessary to send support overseas, however we can, whether it be through education, counseling, or more.",
+      "address": "rnwKrvgutaznPVdPJtAGzGPtrnk33F5fbu",
+      "image": "https://github.com/thebettermint/registry/blob/main/src/assets/support_ukrainian_refugees.png?raw=true",
+      "url": "http://supportukrainerefugees.org/",
+      "phone": "",
+      "mailingAddress": "",
+      "country": "USA",
+      "EIN": "45-3263111",
+      "initiatives": [
+        {
+          "title": "Support Ukrainian Refugees #1",
+          "description": "An initial donation round to help refugees in need.",
+          "tag": 84,
+          "XAddress": "",
+          "start": 1655656869,
+          "end": 1655656869,
+          "defaultAsset": "https://github.com/thebettermint/registry/blob/main/src/assets/generic/BronzeToken.png?raw=true",
+          "tiers": [
+            {
+              "title": "Bronze Ukrainian Flag",
+              "description": "Bronze Ukrainian Flag",
+              "amount": {
+                "currency": "XRP",
+                "issuer": "",
+                "value": 150
+              },
+              "asset": "https://github.com/thebettermint/registry/blob/main/src/assets/ukraine/UkraineBronze.png?raw=true"
+            },
+            {
+              "title": "Silver Ukrainian Flag",
+              "description": "Silver Ukrainian Flag",
+              "amount": {
+                "currency": "XRP",
+                "issuer": "",
+                "value": 225
+              },
+              "asset": "https://github.com/thebettermint/registry/blob/main/src/assets/ukraine/UkraineSilver.png?raw=true"
+            },
+            {
+              "title": "Gold Ukrainian Flag",
+              "description": "Gold Ukrainian Flag",
+              "amount": {
+                "currency": "XRP",
+                "issuer": "",
+                "value": 750
+              },
+              "asset": "https://github.com/thebettermint/registry/blob/main/src/assets/ukraine/UkraineGold.png?raw=true"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Save the Whales",
       "description": "Our mission is to provide a more sustainable future for the whales",
@@ -14,7 +68,7 @@
       "mailingAddress": "",
       "country": "",
       "EIN": "95-3263536",
-      "initatives": [
+      "initiatives": [
         {
           "title": "Save the Whales - Test",
           "description": "This is the first test initiative, or funding round for the save the whales organization",
@@ -68,7 +122,7 @@
       "mailingAddress": "",
       "country": "",
       "EIN": "82-1864287",
-      "initatives": [
+      "initiatives": [
         {
           "title": "Coalition #1",
           "description": "Test initiative",
@@ -90,7 +144,7 @@
       "mailingAddress": "",
       "country": "",
       "EIN": "87-3486445",
-      "initatives": [
+      "initiatives": [
         {
           "title": "Remedy #1",
           "description": "Test initiative",
@@ -112,7 +166,7 @@
       "mailingAddress": "1234 Example Drive, Seattle WA 12345",
       "country": "USA",
       "EIN": "12-12343567",
-      "initatives": [
+      "initiatives": [
         {
           "title": "Food Drive #1",
           "description": "Our inagural food drive",
