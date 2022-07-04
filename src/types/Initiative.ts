@@ -8,5 +8,5 @@ export default interface Initiative {
   start: number; // timestamp
   end: number; // timestamp
   defaultAsset: string;
-  tiers: Array<Tier>;
+  tiers?: Array<Tier>; // Not needed in partiuclar circumstances
 }
