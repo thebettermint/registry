@@ -6,6 +6,6 @@ import Tier from "./Tier";
 export {
     Initiative,
     Organization,
-Registry,
-Tier
+    Registry,
+    Tier
 }
